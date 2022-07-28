@@ -1,0 +1,71 @@
+.navbar-header .navbar-brand {
+    color: black;
+    font-size: 2.3em;
+    font-weight: 700;
+}
+
+.sr-only{
+    color: black;
+    font-size: 30px;
+}
+
+.text-center > h1{ 
+    font-weight: 600;
+}
+
+.container-fluid, .content{
+    background-color: aqua;
+}
+
+.container{
+    /* width: 100%; */
+    margin-bottom: 30px;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: black;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: black;
+    text-align: center;
+    font-size: 1.3em;
+    font-weight: 500;
+}
+
+.nav .nav-divider{
+    background-color: black;
+    height: 2px;
+}
+
+.col-lg-4,.col-md-6,.col-sm-12{
+    border: 3px solid black;
+    margin-top: 30px ;
+    background-color: rgb(134, 171, 204);
+    column-gap: 10px;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.col-lg-4,.col-md-6,.col-sm-12 > p{
+    font-size: 1.1em;
+}
+
+.col-lg-4{
+    width: 31%;
+}
+
+.col-md-6{
+    width: 45%;
+    /* margin: 20px 20px; */
+}
+.col-md-12{
+    width: 100%;
+    /* margin: 20px 15px; */
+}
+.col-xs-12{
+    width: 100%;
+}
+.row{
+    margin: 10px 20px;
+}
